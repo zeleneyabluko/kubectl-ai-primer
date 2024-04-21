@@ -3,5 +3,6 @@ The repository contains some samples of *.yaml Kubernetes manifests created via 
 ----------
 Name|Prompt|Description|Example|
 |--|--|--|--|
-|Readiness probe|"please help me to create the yaml configuration file for the readiness probe"|yaml for readiness probe|[app-readinessProbe.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-readinessProbe.yaml)|
+|app.yaml||||
+|app-readinessProbe.yaml|"please help me to create the yaml configuration file for the readiness probe"|yaml for readiness probe|[app-readinessProbe.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-readinessProbe.yaml)|
  

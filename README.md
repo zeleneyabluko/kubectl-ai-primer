@@ -9,6 +9,6 @@ Name|Prompt|Description|Example|
 |app-volumeMounts.yaml|I want to add a durable volume and mount it to my container. please create app-volumeMounts.yaml for this|config for mounting a persistent volume into a container|[app-volumeMounts.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-volumeMounts.yaml)|
 |app-cronjob.yaml|create yaml config for a scheduled task which will run daily at 18:00 UTC|yaml config for scheduled job which should run on a regular basis|[app-cronjob.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-cronjob.yaml)|
 |app-job.yaml|create a yaml config for job which will set up the db in the testing environment. It should take not more than 300 sec to run, with not more than 3 attempts|configuration for a one-time task|[app-job.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-job.yaml)| 
-|app-multicontainer.yaml||||
+|app-multicontainer.yaml|create yaml config for a multicontainer pod (one container for react frontend, another for database)█|yaml manifesto for a multicontainer pod|[app-multicontainer.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-multicontainer.yaml)|
 |app-resources.yaml||||
 |app-secret-env.yaml||||

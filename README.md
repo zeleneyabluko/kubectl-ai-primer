@@ -1,7 +1,7 @@
 # kubectl-ai-primer
 The repository contains some samples of *.yaml Kubernetes manifests created via kubectl-ai plugin.
 ----------
-|Prompt|Manifesto|
-|--|--|
-|"please help me to create the yaml configuration file for the readiness probe"|[app-readinessProbe.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-readinessProbe.yaml)|
+Name|Prompt|Description|Example|
+|--|--|--|--|
+|Readiness probe|"please help me to create the yaml configuration file for the readiness probe"|yaml for readiness probe|[app-readinessProbe.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-readinessProbe.yaml)|
  

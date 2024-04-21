@@ -7,4 +7,8 @@ Name|Prompt|Description|Example|
 |app-livenessProbe.yaml|create yaml config for a pod which runs a container with image registry.k8s.io/busybox, with liveness probe|yaml for liveness probe|[app-livenessProbe.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-livenessProbe.yaml)|
 |app-readinessProbe.yaml|please help me to create the yaml configuration file for the readiness probe|yaml for readiness probe|[app-readinessProbe.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-readinessProbe.yaml)|
 |app-volumeMounts.yaml|I want to add a durable volume and mount it to my container. please create app-volumeMounts.yaml for this|config for mounting a persistent volume into a container|[app-volumeMounts.yaml](https://github.com/zeleneyabluko/kubectl-ai-primer/blob/main/yaml/app-volumeMounts.yaml)|
- 
+|app-cronjob.yaml||||
+|app-job.yaml|||| 
+|app-multicontainer.yaml||||
+|app-resources.yaml||||
+|app-secret-env.yaml||||
